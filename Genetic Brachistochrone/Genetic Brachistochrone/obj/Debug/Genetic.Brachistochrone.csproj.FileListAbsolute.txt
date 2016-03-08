@@ -1,0 +1,30 @@
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\bin\Debug\Genetic Brachistochrone.exe.config
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\bin\Debug\Genetic Brachistochrone.exe
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\bin\Debug\Genetic Brachistochrone.pdb
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\bin\Debug\Genetics.dll
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\bin\Debug\Matricies.dll
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\bin\Debug\NeuralNetworks.dll
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\bin\Debug\Genetics.pdb
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\bin\Debug\Matricies.pdb
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\bin\Debug\NeuralNetworks.pdb
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\obj\Debug\Genetic Brachistochrone.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\obj\Debug\Genetic_Brachistochrone.Form1.resources
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\obj\Debug\Genetic_Brachistochrone.Properties.Resources.resources
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\obj\Debug\Genetic Brachistochrone.csproj.GenerateResource.Cache
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\obj\Debug\Genetic Brachistochrone.exe
+C:\Users\Daniel\Desktop\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\obj\Debug\Genetic Brachistochrone.pdb
+C:\Users\Daniel\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\bin\Debug\Genetic Brachistochrone.exe.config
+C:\Users\Daniel\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\obj\Debug\Genetic Brachistochrone.exe
+C:\Users\Daniel\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\obj\Debug\Genetic Brachistochrone.pdb
+C:\Users\Daniel\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\bin\Debug\Genetic Brachistochrone.exe
+C:\Users\Daniel\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\bin\Debug\Genetic Brachistochrone.pdb
+C:\Users\Daniel\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\bin\Debug\Genetics.dll
+C:\Users\Daniel\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\bin\Debug\Matricies.dll
+C:\Users\Daniel\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\bin\Debug\NeuralNetworks.dll
+C:\Users\Daniel\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\bin\Debug\Genetics.pdb
+C:\Users\Daniel\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\bin\Debug\Matricies.pdb
+C:\Users\Daniel\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\bin\Debug\NeuralNetworks.pdb
+C:\Users\Daniel\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\obj\Debug\Genetic Brachistochrone.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\obj\Debug\Genetic_Brachistochrone.Form1.resources
+C:\Users\Daniel\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\obj\Debug\Genetic_Brachistochrone.Properties.Resources.resources
+C:\Users\Daniel\Daniel\Hobbies\Programming\New\Genetic Algorithm\Genetic Brachistochrone\Genetic Brachistochrone\obj\Debug\Genetic Brachistochrone.csproj.GenerateResource.Cache
